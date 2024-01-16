@@ -1,0 +1,6 @@
+model,acc,f1
+distil-whisper-large-v2,0.8451,0.8607
+whisper-large-v3,0.8451,0.8406
+distil-whisper-medium.en,0.8169,0.7936
+whisper-medium,0.7606,0.7792
+whisper-medium.en,0.7324,0.7324

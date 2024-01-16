@@ -1,0 +1,7 @@
+paper,acoustic,linguistic,fusion
+Luz et al.\cite{luz21_interspeech} (baseline),6.09,5.28,5.29
+Pérez-Toro et al.\cite{pereztoro21_interspeech},5.35,4.56,4.79
+Zhu et al.\cite{zhu21e_interspeech},4.44,4.6,4.46
+Syed et al.\cite{syed21_interspeech},-,4.64,4.35
+Rohanian et al.\cite{rohanian21_interspeech},6.03,4.94,4.72
+Pappagari et al.\cite{pappagari21_interspeech},-,3.85,4.62

@@ -1,0 +1,6 @@
+model,acc,f1,spec
+roberta-large,0.8310,0.8421,0.7714
+bart-large-mnli,0.8028,0.8000,0.8286
+bert-large,0.7746,0.7500,0.8857
+bart-large,0.7465,0.7500,0.7429
+flan-t5-large,0.7465,0.7273,0.8286

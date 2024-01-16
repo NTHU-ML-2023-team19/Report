@@ -1,0 +1,6 @@
+model,rmse
+whisper-medium.en,4.5335
+whisper-large-v3,4.5682
+distil-whisper-large-v2,4.7742
+whisper-medium,4.8297
+distil-whisper-medium.en,4.9445

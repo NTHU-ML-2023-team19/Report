@@ -1,0 +1,13 @@
+paper,a_acc,a_f1,a_spec,l_acc,l_f1,l_spec,f_acc,f_f1,f_spec
+Luz et al.\cite{luz21_interspeech} (baseline),0.6479,-,-,0.7746,-,-,0.7887,0.7887,-
+Pérez-Toro et al.\cite{pereztoro21_interspeech},0.6761,0.6700,0.6000,0.7887,0.7800,0.6000,0.8028,0.8000,0.7143
+Zhu et al.\cite{zhu21e_interspeech},0.8310,0.8302,-,0.7324,0.7316,-,0.8028,0.8025,-
+Gauder et al.\cite{gauder21_interspeech},0.7887,-,-,0.7890,-,-,0.7890,-,-
+Balagopalan et al.\cite{balagopalan21_interspeech},0.6761,0.7089,-,-,-,-,-,-,-
+Qiao et al.\cite{qiao21_interspeech},0.8000,0.8000,-,0.8000,0.8000,-,0.8310,0.8400,-
+Pan et al.\cite{pan21c_interspeech},0.7465,0.7273,-,0.8451,0.8493,-,0.7887,0.7761,-
+Syed et al.\cite{syed21_interspeech},-,-,-,-,-,-,0.8451,0.8445,-
+Rohanian et al.\cite{rohanian21_interspeech},0.6800,-,-,0.8000,-,-,0.8100,-,-
+Pappagari et al.\cite{pappagari21_interspeech},0.7470,0.7400,-,0.8451,0.8300,-,0.8451,0.8300,-
+Chen et al.\cite{chen21r_interspeech},0.7711,0.7841,0.7468,0.7530,0.7630,0.7468,0.8169,0.8889,0.8000
+Wang et al.\cite{wang21ca_interspeech},0.6140,0.6320,-,0.7350,0.7350,-,0.8028,0.8250,-
